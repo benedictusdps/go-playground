@@ -1,11 +1,13 @@
 package main
 
 import (
-  "fmt"
-  "time"
+	"fmt"
+	"time"
 )
 
 func main() {
+  // Print title
+  fmt.Println("Here comes the Gopher!")
   // Prints the Go gopher ASCII Art
   fmt.Println("      `.-::::::-.`")
   fmt.Println("  .:-::::::::::::::-:.")
